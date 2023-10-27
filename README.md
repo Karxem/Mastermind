@@ -1,2 +1,2 @@
 # Mastermind
-The game Matermind written in C#
+School project using C# to create the known game Mastermind
