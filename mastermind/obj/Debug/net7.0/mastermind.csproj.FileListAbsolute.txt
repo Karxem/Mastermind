@@ -1,0 +1,15 @@
+/Users/jtippelt/Projects/mastermind/mastermind/bin/Debug/net7.0/mastermind
+/Users/jtippelt/Projects/mastermind/mastermind/bin/Debug/net7.0/mastermind.deps.json
+/Users/jtippelt/Projects/mastermind/mastermind/bin/Debug/net7.0/mastermind.runtimeconfig.json
+/Users/jtippelt/Projects/mastermind/mastermind/bin/Debug/net7.0/mastermind.dll
+/Users/jtippelt/Projects/mastermind/mastermind/bin/Debug/net7.0/mastermind.pdb
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.csproj.AssemblyReference.cache
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.AssemblyInfoInputs.cache
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.AssemblyInfo.cs
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.csproj.CoreCompileInputs.cache
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.dll
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/refint/mastermind.dll
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.pdb
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/mastermind.genruntimeconfig.cache
+/Users/jtippelt/Projects/mastermind/mastermind/obj/Debug/net7.0/ref/mastermind.dll
